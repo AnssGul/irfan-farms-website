@@ -30,7 +30,7 @@ const timeline = [
   { year: '2014', title: 'Expansion', description: 'Grew to 50 acres with traditional farming methods.' },
   { year: '2018', title: 'First Products', description: 'Launched our first line of organic ghee and oils.' },
   { year: '2021', title: 'Online Store', description: 'Brought farm-fresh products directly to your doorstep.' },
-  { year: '2024', title: 'Growing Strong', description: 'Serving thousands of happy customers across India.' },
+  { year: '2024', title: 'Growing Strong', description: 'Serving thousands of happy customers across pakistan.' },
 ];
 
 const About = () => {
